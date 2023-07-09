@@ -1,9 +1,6 @@
-# My Project
+# Text to Base64 Converter
 
-## Description
-
-### Text to Base64 Converter
-
+## Description 
 The "Text to Base64 Converter" is a utility tool that allows you to convert plain text into its Base64 encoded format. Base64 encoding is commonly used for data transmission and storage, as it represents binary data in an ASCII string format, making it more compatible with different systems and platforms.
 
 With this converter, you can easily encode any text by simply inputting the desired text and clicking the "Convert" button. The tool will then generate the corresponding Base64 encoded string, which you can use for various purposes such as securely transferring data or encoding sensitive information.
